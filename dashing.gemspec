@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.add_dependency('sass')
   s.add_dependency('coffee-script', '>=1.6.2')
   s.add_dependency('sinatra')
-  s.add_dependency('sinatra-contrib')
+  s.add_dependency('sinatra-contrib', '1.4.0')
   s.add_dependency('rufus-scheduler')
   s.add_dependency('thor')
   s.add_dependency('sprockets')
